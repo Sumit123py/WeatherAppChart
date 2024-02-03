@@ -9,4 +9,4 @@ User can watch graph of weather by clicking on show Graph button.
 In graph user can switch between temperature, humidity, windspeed.
 In graph user can also watch the next 5 days weather data.
 
-For live Demo : https://vermillion-bubblegum-db6065.netlify.app
+For live Demo : https://brilliant-meerkat-b35c7d.netlify.app
